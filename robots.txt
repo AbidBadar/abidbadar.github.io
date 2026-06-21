@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abidbadar.online/sitemap.xml
